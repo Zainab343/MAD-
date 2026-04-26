@@ -1,0 +1,16 @@
+{
+  "expo": {
+    "name": "3 Modals Practise App",
+    "slug": "3-modals-practise-app",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "resizeMode": "contain",
+      "backgroundColor": "#f4efe6"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
